@@ -1,0 +1,25 @@
+{
+  "id": "dnd5e-implants",
+  "title": "DND5E Implants",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Adds Cyberpunk_RED-like implants to DND5E",
+  "authors": [
+    {
+      "name": "Sarinya",
+      "flags": {}
+    }
+  ]
+}
